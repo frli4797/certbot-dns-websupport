@@ -20,7 +20,7 @@ extend-select = ["I"]
 
 [tool.poetry]
 name = "certbot-dns-websupport"
-version = "3.0.0"
+version = "5.0.0"
 description = "This is a plugin for Certbot that uses the Websupport REST API to allow Websupport customers to prove control of a domain name."
 authors = ["johnybx"]
 license = "Apache License 2.0"
